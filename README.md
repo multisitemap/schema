@@ -3,7 +3,7 @@
 + domain-dns
 + domain-nameserwers
 + ip-server
-+ domain_provider-domain_name-nameserwer-server_provider-server_ip
++ domain-provider.domain-name.nameserwer.server_provider.server_ip
 
 
 ## Examples
