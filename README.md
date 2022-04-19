@@ -5,6 +5,15 @@
 + ip-server
 + domain-provider.domain-name.nameserwer.server_provider.server_ip
 
+Mapa może być tworzona odręcznie w celu weryfikacji poprz inframonit.com który używa narzędzia infrash.com do sprawdzenia statusu infrastruktury
+
+
+## Struktura
+
+multisitemap.com
+
++ inframonit - monitrowanie infrastruktury za pomocą skryptów i usług SaaS
++ infrash - uruchamianie skryptów
 
 ## Examples
 
