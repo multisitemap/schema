@@ -18,13 +18,18 @@ wystarczy podać Endpoint oraz oczekiwane objekty a rezutltaty zostaną wyggener
 
 ```csv
 domain,https_status,screenshot_png
+example1.com
+example2.com
+example3.com
 ```
 
 ### OUT
 
 ```csv
 domain,nameservers
-example.com,ns1.com,ns2.com,ns3.com
+example1.com,ns1.com,ns2.com,ns3.com
+example2.com,ns1.com,ns2.com,ns3.com
+example3.com,ns1.com,ns2.com,ns3.com
 ```
 
 
